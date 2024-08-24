@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository
 <br>
-Author - Pranav Ghare 
+Author - Pranav Ravindra Ghare 
